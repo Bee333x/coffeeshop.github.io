@@ -1,0 +1,126 @@
+#navbar {
+    background-color: blanchedalmond;
+    display:flex;
+    justify-content: space-around;
+    
+     }
+
+ #navbar {
+        position: relative;
+    } 
+    
+    
+
+#navbar {
+     height: 30px;
+     padding-top: .5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+
+
+    
+
+}
+
+#navbar a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+
+#navbar a:hover {
+    color:red
+}
+.home_image {
+    width:25%;
+    padding-top: 4%;
+    margin-left: 35%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 400%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6f4e37;
+}
+    
+p {
+    text-align: center;
+    font-size: 200%;
+    margin-top: -1%;
+}
+.sml {
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    padding-top: .5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2.5%;
+    }
+
+.sml a{
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: burlywood;
+
+}
+
+.p2 {
+    text-align: center;
+    font-size: 100%;
+    margin-top: 2%; 
+}
+.im2 {
+    /* width: 100%; */
+    /* border: 2px blue solid; */
+    display: flex;
+    justify-content: space-around;
+}
+img {
+    width: 50%;
+}
+.drinks_container {
+    /* border: red 2px solid; */
+    text-align: center;
+    /* display: flex; */
+    /* justify-content: center; */
+    width: 30%
+
+}
+.sm2 {
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    padding-top: .5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3.5%;
+    margin-bottom: 1.75%;
+
+}
+a{
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.im3 {
+    display: flex;
+    justify-content: space-around;
+
+}
+.pastries {
+    text-align: center;
+    width: 30%;
+    margin-top: 0%;
+    font-size: large;
+
+}
